@@ -1,15 +1,14 @@
 // import Comp from "./Comp";
-import Selectoption from "./Selectoption";
+// import Selectoption from "./Selectoption";
 
-// import Copyfile from "./Copyfile";
-
+import Copyfile from "./Copyfile";
 
 function App() {
   return (
     <div>
-      <Selectoption />
+      {/* <Selectoption /> */}
       {/* <Comp /> */}
-      {/* <Copyfile /> */}
+      <Copyfile />
     </div>
   );
 }
